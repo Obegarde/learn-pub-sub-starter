@@ -7,7 +7,7 @@ import (
 	"os/signal"
 	"syscall"
 	"log"
-	"github.com/obegarde/learn-pub-sub-starter/internal/pubsub"
+	"github.com/Obegarde/learn-pub-sub-starter/internal/pubsub"
 )
 
 func main() {
